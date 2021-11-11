@@ -1,6 +1,8 @@
 // An explanation of how to find the intersection of two sorted
 //  linked lists
 // Written by Anushka, Nov. 2021
+// (Note: this file won't actually run - if you want to run it, you'll need to copy
+//  set_intersection()'s code to list.c)
 struct node {
     int data;
     struct node *next;
