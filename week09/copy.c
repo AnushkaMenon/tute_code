@@ -1,5 +1,7 @@
 // An explanation of how to copy linked lists
 // Written by Anushka, Nov. 2021
+// (Note: this file won't actually run - if you want to run it,
+//  you'll need to copy copy()'s code to list.c)
 struct node {
     int data;
     struct node *next;
